@@ -1,3 +1,8 @@
+/*
+ Nick Dardano
+ 11/10/25
+ Listing names and address information
+ */
 class RestaurantInfo {
   public static void main(String[] args) {
 

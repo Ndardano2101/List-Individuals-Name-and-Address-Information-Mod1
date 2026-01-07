@@ -1,0 +1,9 @@
+class RestaurantInfo {
+  public static void main(String[] args) {
+
+    // Print restaraunt infomration
+    System.out.println("Restaraunt Name: Nick's Diner");
+    System.out.println("Business Address: 2101 Union Way");
+    System.out.println(City, State, Zip: Lakewood , CO 80215');
+  }
+}
